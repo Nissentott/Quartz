@@ -6,3 +6,5 @@ tags:
 ---
  
 The introduction goes here
+
+In the [[About me]] tab, you find more info about me.
